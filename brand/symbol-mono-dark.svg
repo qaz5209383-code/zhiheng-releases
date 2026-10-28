@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="知衡">
+  <title>知衡</title>
+  <rect width="64" height="64" rx="15" fill="#fffefa" />
+  <g
+    stroke="#35694e"
+    stroke-width="2.6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+    transform="translate(8 8) scale(1)"
+  >
+    <path d="M13 16C17 16 18 21 24 21C30 21 31 16 35 16" />
+    <path d="M24 21v9" />
+    <path d="M15 30h18" />
+  </g>
+</svg>

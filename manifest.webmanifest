@@ -1,0 +1,32 @@
+{
+  "name": "知衡 · 家庭健康 OS",
+  "short_name": "知衡",
+  "description": "Local First 家庭健康 OS。长期保存、完整导出、证据可追溯和成员隔离是核心原则。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "/zhiheng-releases/",
+  "scope": "/zhiheng-releases/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f7f2",
+  "theme_color": "#f7f7f2",
+  "categories": [
+    "health",
+    "medical",
+    "lifestyle"
+  ],
+  "icons": [
+    {
+      "src": "/zhiheng-releases/brand/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/zhiheng-releases/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
